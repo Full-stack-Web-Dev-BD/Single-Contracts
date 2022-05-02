@@ -1,0 +1,43 @@
+
+    If you have forgotten the percentages of how the Tokenomics are redistributed see below for a simple break down:
+    Reflections
+    4% is Redistributed to all existing holders 
+    LP Acquisition
+    3% is added to liquidity
+     
+    Token Burn
+    2% of tokens are burned 
+    Growth Fund
+    1% is added to the SafeMoon Ecosystem Growth Fund
+
+
+
+=>Fees
+SafeMoon Tokenomics? They're what makes SafeMoon… well, SafeMoon. 
+Tokenomics are the fundamental building blocks of the SafeMoon Protocol - they cause every single person holding on chain to receive a small portion of the fees that are charged on each SafeMoon transaction.
+When a transaction occurs* there is a 10% fee to the holder that initiated the transaction. 4% of this fee is distributed to all holders as reflections, not including the burn wallet which has its on 2% of the 10%. The remaining 4% is split between 3% LP generation which is used to fund the liquidity pool and 1% SafeMoon Eco System Fund.
+SafeMoon V2 also brings a 2% transfer fee. This means that all trades/transfers between wallets will use a 2% fee instead of the existing 10% for SafeMoon V1. Note, this does NOT remove the 10% fee on buys and sells.
+
+=>Reflections
+So, that's the fee amounts covered. We now need to understand what these fees are for and how they are distributed throught what is called Tokenomics via the mechanic called reflectios.
+Now what are reflections? Reflections are essentially a form of passive income calculated according to the amount of SafeMoon held in your wallet.
+Of the 10% fee charged on transactions 4% goes to reflections.
+The 4% that goes to reflections is what is distributed to all holders, excluding the Burn Wallet and Exchange Hot Wallets. (plus any additional excluded wallets the team might remove from this list) So for example if you own 1,500,000,000.000 SFM you are getting 0.1500% of the that 4%.
+This 4% distribution amount is split across all holders which currently there is over 500,000 holders and growing for SafeMoon V2.
+
+
+
+=>Burn
+The burn wallet, it is the largest wallet that holds SafeMoon to date and it currently holds 43% of the total supply, and is growing by the second.
+Now why is it called the burn wallet? Well, the SafeMoon Protocol has a deflationary aspect, which is called the BURN.
+The burn wallet takes its portion of the Tokenomics fee which is 2% and functionally does just that - it burns them.
+The burn wallet (0x0000000000000000000000000000000000000001) has no seed phrase, meaning these reflections are sent to an inaccessible address that can never be retrieved or interacted with by anyone make and maintaining the deflationary aspect to SafeMoon.
+
+
+=>Liquidity
+So we have spoken about the 4% given to all holders and how SafeMoon incorporates the burn into its fundamentals, but where does the other 4% of the fee go?
+3% goes into what we call a liquidity pool. This is the address in which the value of SafeMoon is stored. Currently SafeMoon operates on the Binance Smart Chain so its store of value is paired with BNB, the native token of the BSC blockchain.
+But how exactly does it pair it to BNB? Well, we take 1.5% of BNB and 1.5% of SafeMoon and simply pair them in the Liquidity Pool. As the volume changes on a day to day basis the liquidity amount will change based on people buying and selling SafeMoon.
+Liquidity Definition: 
+The availability of liquid assets to a company or market. An asset is considered more liquid if it can easily be converted into cash. The harder the ability to turn an asset into cash the more illiquid the asset. For example, stocks are considered relatively liquid assets as they can be easily converted to cash while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.
+And the final 1% is added to the SafeMoon Ecosystem Growth Fund, this will cover things such as development for future technology or server expansion on the up and coming SafeMoon Exchange.
